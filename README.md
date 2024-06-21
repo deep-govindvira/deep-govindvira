@@ -12,7 +12,6 @@
 - 🤔 I’m I am seeking an internship opportunity as a 👨🏻‍💻 software developer engineer 👨🏻‍💻.
 - 📫 How to reach me : deepgovindvira@gmail.com
 - 😄 Pronouns : He/His
-- 🙋🏻‍♂️ Portfolio : https://deepgovindvira.netlify.app/
 - 🥱 My thought : I believe in living simply and thinking deeply.
 
 
