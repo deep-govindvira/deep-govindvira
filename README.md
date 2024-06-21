@@ -2,7 +2,7 @@
 
 <!-- # Hi there, I'm Jane Doe! 👋 -->
 
-![GitHub followers](https://img.shields.io/github/followers/janedoe?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/janedoe?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/deep-govindvira?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/deep-govindvira?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## About Me
 
