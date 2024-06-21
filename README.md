@@ -48,3 +48,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-govindvira&layout=compact)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-govindvira&layout=compact&theme=radical) -->
+
+Please visit my portfolio to get more info.
+https://deepgovindvira.netlify.app/
