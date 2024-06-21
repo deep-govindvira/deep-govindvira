@@ -13,4 +13,4 @@
 - 🤔 I’m I am seeking an internship opportunity as a 👨🏻‍💻 software developer engineer.
 - 📫 How to reach me: deepgovindvira@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Simple living and high thinking is my life moto.
+- ⚡ Fun fact: I believe in living simply and thinking deeply.
