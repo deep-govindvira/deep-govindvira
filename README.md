@@ -9,10 +9,11 @@
 <!-- - 🔭 I’m currently working on ...  -->
 - 👨‍🎓 I’m currently pursuing a B.Tech in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in).
 - 🌱 I’m currently learning Amazon Web Services.
-- 🤔 I’m I am seeking an internship opportunity as a 👨🏻‍💻 software developer engineer.
+- 🤔 I’m I am seeking an internship opportunity as a 👨🏻‍💻 software developer engineer 👨🏻‍💻.
 - 📫 How to reach me: deepgovindvira@gmail.com
-- 😄 Pronouns: He/His
-- 🥱 My thought: I believe in living simply and thinking deeply.
+- 😄 Pronouns : He/His
+- 🙋🏻‍♂️ Portfolio : https://deepgovindvira.netlify.app/
+- 🥱 My thought : I believe in living simply and thinking deeply.
 
 
 ## 🔧 Technologies & Tools
@@ -48,7 +49,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-govindvira&layout=compact&theme=radical) -->
 
-## 📫 Connect with me
+## 📫 Portfolio
 
-[![Personal Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=00A98F)](https://deepgovindvira.netlify.app/)
 
+https://deepgovindvira.netlify.app/
