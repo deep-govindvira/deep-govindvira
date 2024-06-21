@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**deep-govindvira/deep-govindvira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- # Hi there, I'm Jane Doe! 👋 -->
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/janedoe?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/janedoe?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+
+<!-- - 🔭 I’m currently working on ...  -->
+- 👨‍🎓 I’m currently pursuing a B.Tech in Information Technology from Dharmsinh Desai University.
+- 🌱 I’m currently learning Amazon Web Services.
+- 🤔 I’m I am seeking an internship opportunity as a 👨🏻‍💻 software developer engineer.
+- 📫 How to reach me: deepgovindvira@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Simple living and high thinking is my life moto.
