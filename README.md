@@ -10,7 +10,7 @@
 - 👨‍🎓 I’m currently pursuing a B.Tech in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in).
 - 🌱 I’m currently learning Amazon Web Services.
 - 🤔 I’m I am seeking an internship opportunity as a 👨🏻‍💻 software developer engineer 👨🏻‍💻.
-- 📫 How to reach me: deepgovindvira@gmail.com
+- 📫 How to reach me : deepgovindvira@gmail.com
 - 😄 Pronouns : He/His
 - 🙋🏻‍♂️ Portfolio : https://deepgovindvira.netlify.app/
 - 🥱 My thought : I believe in living simply and thinking deeply.
