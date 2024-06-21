@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/deep-govindvira?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/deep-govindvira?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-## About Me
+## 🙋🏻‍♂️ About Me
 
 
 <!-- - 🔭 I’m currently working on ...  -->
@@ -14,6 +14,8 @@
 - 📫 How to reach me: deepgovindvira@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe in living simply and thinking deeply.
+
+## 🔧 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
