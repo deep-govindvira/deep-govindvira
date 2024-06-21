@@ -6,7 +6,6 @@
 
 ## 🙋🏻‍♂️ About Me
 
-
 <!-- - 🔭 I’m currently working on ...  -->
 - 👨‍🎓 I’m currently pursuing a B.Tech in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in).
 - 🌱 I’m currently learning Amazon Web Services.
@@ -39,6 +38,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
+
 ## 📈 GitHub Stats
 
 ![Deep's Github Stats](https://github-readme-stats.vercel.app/api?username=deep-govindvira)
@@ -50,6 +50,5 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/deep-govindvira/)
 [![Personal Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=00A98F)](https://deepgovindvira.netlify.app/)
 
