@@ -19,9 +19,19 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-000?&logo=Sublime%20Text)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ%20IDEA)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 
 
 ## 📈 GitHub Stats
