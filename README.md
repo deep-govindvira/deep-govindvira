@@ -15,24 +15,23 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I believe in living simply and thinking deeply.
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-000?&logo=Sublime%20Text)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJ%20IDEA)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=Sublime%20Text&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## 📈 GitHub Stats
 
