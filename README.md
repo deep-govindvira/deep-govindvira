@@ -41,7 +41,8 @@
 
 ## 📈 GitHub Stats
 
-![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep-govindvira&show_icons=true&hide_border=true&theme=radical)
+![Deep's Github Stats](https://github-readme-stats.vercel.app/api?username=deep-govindvira)
+<!-- ![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep-govindvira&show_icons=true&hide_border=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-govindvira&layout=compact&theme=radical)
 
