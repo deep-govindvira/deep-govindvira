@@ -49,4 +49,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-govindvira&layout=compact&theme=radical) -->
 
 ### Please visit my portfolio for more information.
-### https://deep-govindvira.netlify.app/
+### https://deep-govindvira.github.io/portfolio/
