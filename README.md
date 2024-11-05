@@ -48,5 +48,8 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-govindvira&layout=compact&theme=radical) -->
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/deep_govindvira?theme=light&ext=heatmap)
+
+
 ### Please visit my portfolio for more information.
 ### https://deep-govindvira.github.io/portfolio/
