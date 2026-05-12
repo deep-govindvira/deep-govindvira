@@ -6,9 +6,8 @@
 
 ## 🙋🏻‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on ...  -->
 - 🎓 I’m a 2026 graduate and passionate about software development and technology.
-- 🤔 I’m seeking an internship opportunity as a 👨🏻‍💻 software developer engineer 👨🏻‍💻.
+- 👨🏻‍💻 Open to new opportunities that offer strong learning, growth, and a competitive environment.
 - 📫 How to reach me : deepgovindvira@gmail.com
 - 😄 Pronouns : He/His
 - 🥱 My thought : I believe in living simply and thinking deeply.
