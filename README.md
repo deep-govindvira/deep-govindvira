@@ -7,8 +7,7 @@
 ## 🙋🏻‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on ...  -->
-- 👨‍🎓 I’m currently pursuing a B.Tech in Information Technology from [Dharmsinh Desai University](https://www.ddu.ac.in).
-- 🌱 I’m currently learning Amazon Web Services.
+- 🎓 I’m a 2026 graduate and passionate about software development and technology.
 - 🤔 I’m seeking an internship opportunity as a 👨🏻‍💻 software developer engineer 👨🏻‍💻.
 - 📫 How to reach me : deepgovindvira@gmail.com
 - 😄 Pronouns : He/His
