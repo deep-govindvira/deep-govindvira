@@ -20,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%3C%2F%3E-blueviolet)
 - ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
