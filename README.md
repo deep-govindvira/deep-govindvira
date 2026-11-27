@@ -31,9 +31,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=Sublime%20Text&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=Sublime%20Text&logoColor=white)
 
 
 ## 📈 GitHub Stats
