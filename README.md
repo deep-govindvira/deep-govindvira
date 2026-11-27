@@ -49,4 +49,4 @@
 
 
 ### Please visit my portfolio for more information.
-### https://deep-govindvira.notion.site/Deep-Govindvira-54aa527b55e782b28f3301c9ca9930da
+### https://deep-govindvira.github.io/portfolio/
